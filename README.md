@@ -1,0 +1,1 @@
+# Tamagotchi-1.0
